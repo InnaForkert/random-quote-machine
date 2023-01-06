@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9f2ec838.css","mappings":"sGAEA,EACE,QAAS,CACT,SACF","sources":["index.css"],"sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Moon+Dance&family=Playfair+Display&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n"],"names":[],"sourceRoot":""}
